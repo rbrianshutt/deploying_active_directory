@@ -1,4 +1,10 @@
-<h1> Deploying Active Directory</h1>
+<h1>Installing Active Directory</h1>
+
+<h2>Overview:</h2>
+
+- <b>Install Active Directory Domain Services – Promote DC-1 as a new forest (e.g., mydomain.com).</b> 
+- <b>Create Domain Admin User – Set up a new domain admin account (jane_admin).</b>
+- <b>Join CLIENT-1 to the Domain – Connect CLIENT-1 to the domain and verify in ADUC.</b>
 
 <h2>Install Active Directory</h2>
 
