@@ -3,7 +3,7 @@
 <h2>Install Active Directory</h2>
 
 Login to DC-1 <br/>
-Go to Server Manager dashboard <br/>
+Go to Server Manager -> Dashboard <br/>
 Click Add Roles and Features <br/>
 
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/3.1%20add%20roles%20and%20features.PNG)
