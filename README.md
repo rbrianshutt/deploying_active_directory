@@ -167,7 +167,7 @@ Click Change  <br/>
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/9.4%20computer%20name%20change.PNG)
 <br />
 
-Ensure Domain is selected Member of  <br/>
+Ensure Domain is selected under Member of  <br/>
 Enter "mydomain.com" <br/>
 Click OK <br/>
 
