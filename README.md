@@ -225,7 +225,7 @@ Click Remote Desktop <br/>
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/12.2%20settings%20system%20remote%20desktop.PNG)
 <br />
 
-Click Users that can remotely access this PC under Users Accounts <br/>
+Click "Select Users that can remotely access this PC" under Users Accounts <br/>
 
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/12.3%20user%20accounts%20select%20users.PNG)
 <br />
