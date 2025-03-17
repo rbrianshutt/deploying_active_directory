@@ -22,16 +22,18 @@ Click Next <br/>
 <br />
 
 In Select Server Roles, click Active Directory Domain Services <br/>
+Click Next <br/>
 
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/3.3%20active%20directory%20domain%20services.PNG)
 <br />
 
-Add Features  <br/>
+ Click Add Features  <br/>
 
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/3.4%20add%20features.PNG)
 <br />
 
 Notice Acitve Directory Domain Services is checked <br/>
+Click Next <br/>
 
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/3.5%20ad%20domain%20services%20checked.PNG)
 <br />
