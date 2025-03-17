@@ -65,13 +65,13 @@ Click next <br/>
 
 Ensure DNS server is checked <br/>
 Create password  <br/>
-Click next <br/>
+Click Next <br/>
 
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/4.3%20dc%20options.PNG)
 <br />
 
 DNS Options  <br/>
-Click next <br/>
+Click Next <br/>
 
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/4.4%20dns%20options.PNG)
 <br />
