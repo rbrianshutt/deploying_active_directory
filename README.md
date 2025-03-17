@@ -58,17 +58,20 @@ Click Promote this server to a domain controller<br/>
 Deployment Configuration<br/>
 Select Add a new forest for deployment operation<br/>
 For root domain name, type "mydomain.com" (it can be whatever we want)<br/>
+Click next <br/>
 
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/4.2%20add%20new%20forest.PNG)
 <br />
 
 Ensure DNS server is checked <br/>
 Create password  <br/>
+Click next <br/>
 
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/4.3%20dc%20options.PNG)
 <br />
 
 DNS Options  <br/>
+Click next <br/>
 
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/4.4%20dns%20options.PNG)
 <br />
