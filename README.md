@@ -82,6 +82,7 @@ Click Install  <br/>
 <br />
 
 The DC-1 VM is starting<br/>
+Click OK <br/>
 
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/5.1%20restarting.PNG)
 <br />
