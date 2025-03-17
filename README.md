@@ -14,7 +14,7 @@ Click Add Roles and Features <br/>
 
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/3.1%20add%20roles%20and%20features.PNG)
 <br />
-Click Next for the default setting in Before you Begin and Installation Type  <br/>
+In Before you Begin and Installation Type click Next on the default setting  <br/>
 Select Server from server pool  <br/>
 Click Next <br/>
 
