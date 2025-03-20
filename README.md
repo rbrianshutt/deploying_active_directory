@@ -145,7 +145,7 @@ See that Jane Doe is a member of Domain Admins and Domain Users <br/>
 
 Log out of remote connection to DC-1  <br/>
 Log back in as “mydomain.com\jane_admin” <br/>
-User jane_admin as your admin account from now on <br/>
+Use jane_admin as your admin account from now on <br/>
 
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/8.1%20log%20in%20as%20janeadmin.PNG)
 <br />
