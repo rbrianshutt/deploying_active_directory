@@ -205,7 +205,7 @@ Open Computers folder and notice CLIENT-1 shows up in ADUC <br/>
 
 Create a new OU named “_CLIENTS” and drag CLIENT-1 into there  <br/>
 
-![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/11.1%20create%20ou%20clients.png)
+![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/6.1%20aduc%20create%20ou.png)
 ![](https://github.com/rbrianshutt/active_directory/blob/main/Active%20Directory%202.0/11.2%20create%20client%20ou.PNG)
 <br />
 
